@@ -6,8 +6,6 @@
 
 ## Contexte
 
-Le projet est mené dans le service informatique d'une collectivité territoriale, composé d'une petite équipe : un responsable, un administrateur réseau (également RSSI), des techniciens et une alternante. Il couvre tout le cycle, de l'installation du serveur à l'alimentation des données.
-
 Avant la mise en production, une **preuve de concept** (POC) avait été réalisée sous Docker (`netbox-docker`). Elle a permis de prendre en main NetBox et de préparer les premiers fichiers d'import.
 
 ## Installation native, sans Docker
