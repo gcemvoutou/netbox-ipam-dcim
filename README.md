@@ -6,7 +6,7 @@
 ![Redis](https://img.shields.io/badge/Redis-7-DC382D?logo=redis&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-1.24-009639?logo=nginx&logoColor=white)
 
-> Projet réalisé en alternance (BTS SIO option SISR) au sein du service informatique d'une collectivité territoriale : déploiement de **NetBox** en production, de l'installation du serveur jusqu'à l'alimentation des données, pour en faire la **source de vérité** du réseau.
+> Déploiement de **NetBox** en production, de l'installation du serveur jusqu'à l'alimentation des données, pour en faire la **source de vérité** du réseau.
 
 > [!NOTE]
 > Toutes les données de ce dépôt sont anonymisées : adresses IP de documentation (RFC 5737), domaine `example.org`, noms de serveurs, de sites et d'équipements génériques. Aucun secret n'est publié.
